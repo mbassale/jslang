@@ -1,0 +1,3 @@
+create_subdirectory_options(JSLANG TOOL)
+
+add_jslang_subdirectory(driver)
